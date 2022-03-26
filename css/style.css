@@ -649,6 +649,7 @@ ol {
 
 .cs-item .cs-pic {
 	height: 480px;
+	border-radius: 10px;
 }
 
 .cs-item .cs-text {
